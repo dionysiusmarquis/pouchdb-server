@@ -16,5 +16,37 @@
   "main": "lib/index.js",
   "files": [
     "lib"
-  ]
+  ],
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.4",
+    "denodeify": "^1.2.1",
+    "express": "^4.17.1",
+    "extend": "^3.0.2",
+    "header-case-normalizer": "^1.0.3",
+    "mkdirp": "^0.5.1",
+    "multiparty": "^4.2.1",
+    "on-finished": "^2.3.0",
+    "pouchdb-all-dbs": "^1.0.2",
+    "pouchdb-auth": "^4.1.0",
+    "pouchdb-collections": "^7.1.1",
+    "pouchdb-fauxton": "^0.0.6",
+    "pouchdb-find": "^7.1.1",
+    "pouchdb-list": "^4.1.0",
+    "pouchdb-promise": "^6.4.3",
+    "pouchdb-replicator": "^4.1.0",
+    "pouchdb-rewrite": "^4.1.0",
+    "pouchdb-security": "^4.1.0",
+    "pouchdb-show": "^4.1.0",
+    "pouchdb-size": "^4.1.0",
+    "pouchdb-update": "^4.1.0",
+    "pouchdb-validation": "^4.1.0",
+    "pouchdb-vhost": "^4.1.0",
+    "pouchdb-wrappers": "^4.1.0",
+    "raw-body": "^2.4.1",
+    "sanitize-filename": "^1.6.3",
+    "uuid": "^3.3.3"
+  }
 }
